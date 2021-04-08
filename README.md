@@ -3,6 +3,7 @@
 ## I'm a Computer Science Engineering student
 - ⚡ I’m currently working on Linux ext2/ext3 File System Simulation
 - 🌱 I’m currently learning PL/SQL
+- 💬 Ask me about ReactJS
 ---
 
 [![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianFrancisco85&hide=prs)](https://github.com/CristianFrancisco85/github-readme-stats)
