@@ -1,8 +1,8 @@
 ### Hi there, I'm Cristian 👋
 
 ## I'm a Computer Science Engineering student
-- ⚡ I’m currently working on Linux ext2/ext3 File System Simulation
-- 🌱 I’m currently learning PL/SQL
+- ⚡ I’m currently working on domotic system with Arduino simulation
+- 🌱 I’m currently learning Assembler (MASM)
 - 💬 Ask me about ReactJS
 ---
 
