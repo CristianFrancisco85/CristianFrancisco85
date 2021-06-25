@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Engineering student
 - ⚡ I’m currently working on domotic system with Arduino simulation
-- 🌱 I’m currently learning Assembler (MASM)
+- 🌱 I’m currently learning GraphQL and Docker
 - 💬 Ask me about ReactJS
 ---
 
