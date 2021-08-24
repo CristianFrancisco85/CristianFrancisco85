@@ -1,8 +1,8 @@
 ### Hi there, I'm Cristian 👋
 
 ## I'm a Computer Science Engineering student
-- ⚡ I’m currently working on domotic system with Arduino simulation
-- 🌱 I’m currently learning GraphQL and Docker
+- ⚡ I’m currently working on AWS Projects
+- 🌱 I’m currently learning Docker, AWS  
 - 💬 Ask me about ReactJS
 ---
 
