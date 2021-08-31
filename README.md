@@ -3,7 +3,7 @@
 
 ## I'm a Computer Science Engineering student
 - ⚡ I’m currently working on AWS and GCP Projects
-- 💬 Ask me about ReactJS, NodeJS, Javascript, MySQL
+- 💬 Ask me about ReactJS, NodeJS, Javascript, MySQL, Hardware
 - 🌱 I’m currently learning about operating systems, Cloud Services and databases
 - 🤔 Trying to be MERN+GraphQL stack
 ---
