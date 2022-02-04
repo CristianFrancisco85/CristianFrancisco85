@@ -2,16 +2,16 @@
 <img src="https://komarev.com/ghpvc/?username=CristianFrancisco85&color=blue" alt="watching_count" />
 
 ## I'm a Computer Science Engineering student
-- ⚡ I’m currently working on AWS and GCP Projects
-- 💬 Ask me about ReactJS, NodeJS, Javascript, MySQL, Hardware
-- 🌱 I’m currently learning about operating systems, Cloud Services and databases
-- 🤔 Trying to be MERN+GraphQL stack
+- ⚡ MERN Stack
+- 🔭 I’m currently working on AWS and GCP Projects
+- 💬 Ask me about ReactJS, NodeJS, Javascript, MySQL, React Native, Hardware
+- 🌱 I’m currently learning about Data Science, Cloud Services and IoT
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/sergioarmgpl">
+<a href="https://github.com/CristianFrancisco85">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianFrancisco85&layout=compact&langs_count=8&theme=react"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CristianFrancisco85&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
