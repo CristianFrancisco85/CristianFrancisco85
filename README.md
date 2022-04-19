@@ -3,9 +3,9 @@
 
 ## I'm a Computer Science Engineering student
 - ⚡ MERN Stack
-- 🔭 I’m currently working on AWS and GCP Projects
+- 🔭 I’m currently working on Data Science and IoT Projects
 - 💬 Ask me about ReactJS, NodeJS, Javascript, MySQL, React Native, Hardware
-- 🌱 I’m currently learning about Data Science, Cloud Services and IoT
+- 🌱 I’m currently learning about Data Science, Testing, GitOps and IoT
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -35,10 +35,11 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 #### Begginer ⭐
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&color=grey)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)
@@ -46,8 +47,7 @@
 
 
 #### Learning 👀
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 <!--
