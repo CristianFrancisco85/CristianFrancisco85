@@ -4,8 +4,9 @@
 ## I'm a Computer Science Engineering student
 - ⚡ MERN Stack
 - 🔭 I’m currently working on Data Science and IoT Projects
+- 👯 I’m currently enrolled on Ruby & React Bootcamp
 - 💬 Ask me about ReactJS, NodeJS, Javascript, MySQL, React Native, Hardware
-- 🌱 I’m currently learning about Data Science, Testing, GitOps and IoT
+- 🌱 I’m currently learning about Data Science, Testing, Blockchain & Web3
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -27,6 +28,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 #### Amateur ⭐⭐
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -40,7 +42,6 @@
 
 #### Begginer ⭐
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&color=grey)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -48,6 +49,7 @@
 
 #### Learning 👀
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
 <!--
