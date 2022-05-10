@@ -3,9 +3,9 @@
 
 ## I'm a Computer Science Engineering student
 - ⚡ MERN Stack
-- 🔭 I’m currently working on Data Science and IoT Projects
-- 👯 I’m currently enrolled on Ruby & React Bootcamp
-- 💬 Ask me about ReactJS, NodeJS, Javascript, MySQL, React Native, Hardware
+- 🔭 I’m currently working personal projects
+- 👯 I’m currently enrolled on Ruby & React Bootcamp at LaserAnts
+- 💬 Ask me about ReactJS, NodeJS, Javascript, React Native, Golang and Hardware
 - 🌱 I’m currently learning about Go, Blockchain & Web3
 ---
 
