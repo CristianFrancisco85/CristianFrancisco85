@@ -5,7 +5,6 @@
 ## I'm a Computer Science Engineering student
 - ⚡ MERN Stack
 - 🔭 I’m currently working personal projects
-- 👯 I’m currently enrolled on Ruby & React Bootcamp at LaserAnts
 - 💬 Ask me about ReactJS, NodeJS, Javascript, React Native, Golang and Hardware
 - 🌱 I’m currently learning about Go, Blockchain & Web3
 ---
@@ -52,7 +51,6 @@
 
 #### Learning 👀
 
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
