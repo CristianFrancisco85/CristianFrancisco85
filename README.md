@@ -3,14 +3,15 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianfrancisco85/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cristianfrancisco85)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cristianfrancisco85)
+[![Platzi](https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label=)](https://platzi.com/p/cristianfrancisco85/)
 
 <img src="https://komarev.com/ghpvc/?username=CristianFrancisco85&color=blue" alt="watching_count" />
 
 ## I'm a Computer Science Engineering student
-- ⚡ MERN Stack
-- 🔭 I’m currently working personal projects
-- 💬 Ask me about ReactJS, NodeJS, Javascript, React Native, Golang and Hardware
-- 🌱 I’m currently learning about Go, Blockchain & Web3
+- ⚡ ReactJS and Go are my strongest programming skills
+- 🔭 I’m currently working as Go Developer in a AWS based billing system. 
+- 💬 Ask me about ReactJS & Native, NodeJS, Golang and Hardware
+- 🌱 I’m currently learning about Microservices with gRPC using Golang and Terraform
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
