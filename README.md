@@ -9,9 +9,9 @@
 
 ## I'm a Computer Science Engineering student
 - ⚡ ReactJS and Go are my strongest programming skills
-- 🔭 I’m currently working as Go Developer in a AWS based billing system. 
+- 🔭 I’m currently working as DevOps Enginner at nClouds. 
 - 💬 Ask me about ReactJS & Native, NodeJS, Golang and Hardware
-- 🌱 I’m currently learning about Microservices with gRPC using Golang and Terraform
+- 🌱 I’m currently learning about Terraform and Cloud Native technologies
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -53,7 +53,6 @@
 #### Learning 👀
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <!--
 **CristianFrancisco85/CristianFrancisco85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
