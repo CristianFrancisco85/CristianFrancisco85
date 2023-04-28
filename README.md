@@ -8,10 +8,10 @@
 <img src="https://komarev.com/ghpvc/?username=CristianFrancisco85&color=blue" alt="watching_count" />
 
 ## I'm a Computer Science Engineering student
-- ⚡ ReactJS and Go are my strongest programming skills
+- ⚡ ReactJS, NodeJS and Go are my strongest programming skills
 - 🔭 I’m currently working as DevOps Enginner at nClouds. 
-- 💬 Ask me about ReactJS & Native, NodeJS, Golang and Hardware
-- 🌱 I’m currently learning about Terraform and Cloud Native technologies
+- 💬 Ask me about ReactJS, NodeJS, Golang and Hardware
+- 🌱 I’m currently learning about Cloud Native technologies and improving my DevOps skills
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -49,9 +49,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=008C99&logo=New+Relic&logoColor=FFFFFF&label=)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 #### Learning 👀
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!--
