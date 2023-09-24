@@ -7,9 +7,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=CristianFrancisco85&color=blue" alt="watching_count" />
 
-## I'm a Computer Science Engineering student
+## I'm a Computer Science Engineer student
 - ⚡ ReactJS, NodeJS and Go are my strongest programming skills
-- 🔭 I’m currently working as DevOps Enginner at nClouds. 
+- 🔭 I’m currently working as DevOps Engineer at nClouds. 
 - 💬 Ask me about ReactJS, NodeJS, Golang and Hardware
 - 🌱 I’m currently learning about Cloud Native technologies and improving my DevOps skills
 ---
