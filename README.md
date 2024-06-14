@@ -55,6 +55,11 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Certifications
+<p>
+<a href="https://www.credly.com/badges/0b8471ff-93d6-47d5-9adb-5751b7e380ec/public_url"> <img height="120em" src="./aws-sa-associate.png"/></a>
+<a href="https://www.credential.net/c38227c1-e227-47f5-862e-c4e86d1a32f5"> <img height="120em" src="./new-relic-full-stack.png"/></a>
+</p>
 
 <!--
 **CristianFrancisco85/CristianFrancisco85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
