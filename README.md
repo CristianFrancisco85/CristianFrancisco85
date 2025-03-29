@@ -18,8 +18,11 @@
 
 <p>
 <a href="https://www.credly.com/badges/0b8471ff-93d6-47d5-9adb-5751b7e380ec/public_url"> <img height="120em" src="./aws-sa-associate.png"/></a>
+<a href="https://www.credly.com/badges/b6ba26de-90f0-43cd-90f9-b533d28f7f6b/public_url"> <img height="120em" src="./hashicorp-certified-terraform-associate.png"/></a>
 <a href="https://www.credential.net/c38227c1-e227-47f5-862e-c4e86d1a32f5"> <img height="120em" src="./new-relic-full-stack.png"/></a>
 </p>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
